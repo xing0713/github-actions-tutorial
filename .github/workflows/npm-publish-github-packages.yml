@@ -90,7 +90,7 @@ jobs:
           npm -v
           echo "yarn"
           yarn -v
-      - run: npm publish
-        env:
+      # - run: npm publish
+        # env:
           # 刚刚设置的 NPM_TOKEN
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+          # NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
