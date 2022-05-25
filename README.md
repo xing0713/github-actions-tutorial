@@ -4,6 +4,8 @@
 
 在本文中，我想向你展示我如何使用 GitHub Actions 发布我在开源项目中维护的 npm 包。如果你遵循由 GitHub 拉取请求工作流程组成的 GitHub 流程，那么这将进一步统一团队和社区贡献者的工作流程的和提升他们的体验。
 
+mini modfiy
+
 # GitHub Actions
 
 GitHub Actions 是 GitHub 开发的一项技术，旨在为开发人员提供一种围绕持续集成自动化其工作流程的方法——帮助他们构建、部署、安排重复性任务等。GitHub Actions 原生可用并集成到 GitHub 存储库中，并具有来自社区贡献者的许多可重用工作流，例如发布 npm 包、发布 docker 图像、运行安全测试等等。
